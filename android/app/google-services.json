@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159976046578",
+    "project_id": "push-6ad86",
+    "storage_bucket": "push-6ad86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159976046578:android:49f33b62536e103456756b",
+        "android_client_info": {
+          "package_name": "com.example.firebaseeee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2j7L2YxPnHaTJVK3OAI9cIRqjqgAMGoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
